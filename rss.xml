@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sonoma Valley Church of the Nazarene]]></title>
         <description><![CDATA[Sonoma Valley Church of the Nazarene]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sonoma-valley-church-of-the-nazarene/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 19:17:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 19:25:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sonoma-valley-church-of-the-nazarene/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our Mission: “To Experience and Share God’s Love Together.” </p>]]></description>
+            <link>https://thegrid.ai/sonoma-valley-church-of-the-nazarene/b9d7b851-9b4a-4ca6-b2b7-cb84305d6014/index.html</link>
+            <guid isPermaLink="false">b9d7b851-9b4a-4ca6-b2b7-cb84305d6014</guid>
+            <pubDate>Mon, 01 Feb 2016 19:25:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6babd856-e305-4a8c-b4a4-21b6ec782e92.png">]]></description>
-            <link>undefined39e637b0-3dbc-47b6-b493-4f2d6d0f01e3/index.html</link>
+            <link>https://thegrid.ai/sonoma-valley-church-of-the-nazarene/39e637b0-3dbc-47b6-b493-4f2d6d0f01e3/index.html</link>
             <guid isPermaLink="false">39e637b0-3dbc-47b6-b493-4f2d6d0f01e3</guid>
             <pubDate>Mon, 01 Feb 2016 19:17:56 GMT</pubDate>
         </item>
